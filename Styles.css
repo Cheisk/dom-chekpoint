@@ -1,0 +1,50 @@
+#Logo-P {
+align-items: center; 
+height: 500px;
+}
+#div6 {
+    margin-left: 5px;
+    display: flex;
+}
+
+#div5 {
+    
+    display: flex;
+}
+
+#div7 {
+    display: flex;
+}
+
+#div66 {
+    display: flex;
+
+}
+
+#btnh1 {
+    background: transparent;
+    border-radius: none    ;
+    outline: none;
+    color: grey;
+    
+}
+
+#btnh2 {
+    background: transparent;
+    border-radius: none    ;
+    outline: none;
+    color: grey;
+    
+}
+
+#btnh3 {
+    background: transparent;
+    border-radius: none    ;
+    outline: none;
+    color: grey;
+    
+}
+
+.btn i:hover{
+    cursor: pointer;
+}
